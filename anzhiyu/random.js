@@ -1,3 +1,3 @@
-var posts=["2025/04/24/APK正则去广告法/"];function toRandomPost(){
+var posts=["2025/04/25/欢迎进入我的网站！/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
